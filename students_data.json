@@ -1,0 +1,42 @@
+{
+    "students" : [
+    {
+        "name": "Faria Jahan Janie",
+        "middlename" : null,
+        "age" : 30,
+        "cgpa" : 3.92,
+        "isRegistered" : false,
+        "languages" : ["Bengali","English","Hindi"],
+        "friends" :[
+            {
+                "name" :"Antor",
+                "age" : 23
+            },
+            {
+                "name" :"Kayes",
+                "age" :28
+            }
+        ]
+    
+    },
+    {
+        "name": "Rejeya Hasan Minni",
+        "middlename" : null,
+        "age" : 32,
+        "cgpa" : 3.80,
+        "isRegistered" : true,
+        "languages" : ["Bengali","Spanish","English","Hindi"],
+        "friends" :[
+            {
+                "name" :"Anoyer",
+                "age" : 23
+            },
+            {
+                "name" :"Kirti",
+                "age" :28
+            }
+        ]
+    
+    }
+]
+}
