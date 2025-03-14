@@ -1,4 +1,4 @@
-## How to Check if JSON is Valid
+## How to Check if JSON is Valid and Path
 
 JSON (JavaScript Object Notation) is a popular format for storing and exchanging data. If you're working with JSON, it's important to ensure that your JSON code is valid to avoid errors in your applications.
 
@@ -15,5 +15,6 @@ Popular Online JSON Validators:
 3. [FreeFormatter JSON Validator](https://www.freeformatter.com/json-validator.html) - Provides error details for invalid JSON.
 
 4. [JSON Editor Online](https://jsoneditoronline.org/)- Allows you to edit and validate JSON.<br>
-5. [Code Beautify](https://codebeautify.org/jsonviewer)-Minify and validates JSON .
+5. [Code Beautify](https://codebeautify.org/jsonviewer)-Minify and validates JSON.<br>
+
    
