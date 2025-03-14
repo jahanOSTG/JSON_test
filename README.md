@@ -17,4 +17,9 @@ Popular Online JSON Validators:
 4. [JSON Editor Online](https://jsoneditoronline.org/)- Allows you to edit and validate JSON.<br>
 5. [Code Beautify](https://codebeautify.org/jsonviewer)-Minify and validates JSON.<br>
 
+## Checking Schema Validation
+1. [Schema Converter](https://www.liquid-technologies.com/online-json-to-schema-converter)-Convet JSON to JSON Schema.<br>
+
+2. [Schema Validator](https://www.jsonschemavalidator.net/)-Checking Schema Validation.
+
    
